@@ -7,7 +7,7 @@ STEP 3: Add more details and more links if possible like stats and players.<br>
 STEP 4: Continue adding details and color like images until due date.<br>
 
 
-UPDATE (5/2)
-MLB, NBA, NFL, and NHL have their own page.
-All MLB and half of the NBA teams have their own page.
-Finish the pages for the rest of the NBA, NFL, and NHL.
+UPDATE (5/2)<br>
+MLB, NBA, NFL, and NHL have their own page.<br>
+All MLB and half of the NBA teams have their own page.<br>
+Finish the pages for the rest of the NBA, NFL, and NHL.<br>
