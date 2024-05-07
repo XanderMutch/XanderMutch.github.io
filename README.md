@@ -9,5 +9,5 @@ STEP 4: Continue adding details and color like images until due date.<br>
 
 UPDATE (5/7)<br>
 MLB, NBA, NFL, and NHL have their own page.<br>
-All MLB and NBA teams have their own page finished.<br>
-Finish the pages for the NFL and NHL.<br>
+All MLB and NBA teams have their own page.<br>
+Need to finish the pages for the NFL and NHL teams.<br>
