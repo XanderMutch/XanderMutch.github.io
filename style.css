@@ -1,4 +1,13 @@
 html {
   height: 100%;
   width: 100%;
+  background-color: #777; 
+}
+
+.maindiv{
+  width:400px;
+  margin: auto; 
+  background-color: #fff; 
+  padding: 15px; 
+  border-radius:17px;
 }
